@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1354ff7e-9512-45aa-8ea6-f1e05ff0530d" name="dev.idealfit.com" url="http://dev.idealfit.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
