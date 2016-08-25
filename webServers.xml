@@ -4,6 +4,9 @@
       <webServer id="1354ff7e-9512-45aa-8ea6-f1e05ff0530d" name="dev.idealfit.com" url="http://dev.idealfit.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c8067053-1f0a-4128-be7e-d8897049f8a6" name="localhost:9000" url="http://localhost:9000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
