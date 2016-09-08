@@ -7,6 +7,9 @@
       <webServer id="c8067053-1f0a-4128-be7e-d8897049f8a6" name="localhost:9000" url="http://localhost:9000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0af1794b-40b9-4ef6-a3d4-e7b12710da3f" name="dev.trainerlindsey.com" url="http://dev.trainerlindsey.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
