@@ -10,6 +10,9 @@
       <webServer id="0af1794b-40b9-4ef6-a3d4-e7b12710da3f" name="dev.trainerlindsey.com" url="http://dev.trainerlindsey.com">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4ea44805-57c4-46da-b72c-b73b8d279fe6" name="teem" url="http://teem">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
