@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="asdf" type="PHP" />
+      <mapping ext="scss___jb_tmp___" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
